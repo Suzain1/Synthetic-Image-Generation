@@ -48,6 +48,3 @@ This project demonstrates the pipeline for:
 ---
 
 
-
-🚀 *Happy Coding!* 🎉
-

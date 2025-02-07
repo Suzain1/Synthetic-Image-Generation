@@ -3,7 +3,7 @@
 ## 📝 **Project Overview**
 This project demonstrates the pipeline for:
 - ✅ Generating synthetic images using Stable Diffusion
-- ✅ Preprocessing images using OpenCV/PIL
+- ✅ Preprocessing images using PIL
 - ✅ Implementing a Flux-based neural network in Julia
 
 ---
